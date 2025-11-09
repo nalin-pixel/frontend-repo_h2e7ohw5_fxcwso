@@ -1,7 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar.jsx';
 import AnimatedHero from './components/AnimatedHero.jsx';
-import Courses from './components/Courses.jsx';
 import Benefits from './components/Benefits.jsx';
 import Footer from './components/Footer.jsx';
 
@@ -12,7 +11,6 @@ function App() {
       <main>
         <AnimatedHero />
         <Benefits />
-        <Courses />
       </main>
       <Footer />
     </div>
